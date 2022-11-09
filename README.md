@@ -1,4 +1,8 @@
-Simulation of 3 systems in simulation
+Simulation of 3 systems in Simulink
+
+Simulink model and the MATLAB script to run the simulation provided
+
+Systems:
 
 Car suspension system: Simulation of the behaviour of a car suspension system when the car is driven over an obstacle with varying speed and loading of the car
 
